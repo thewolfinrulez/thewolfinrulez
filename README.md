@@ -2,7 +2,7 @@
 
 ## 👋 Hi there!  
 
-I’m a **Python Backend Developer** with a passion for building scalable and efficient applications. Currently, I am pursuing my studies at **UTMO University**, where I am continuously enhancing my skills in software development and backend technologies.  
+I’m a **Python Backend Developer** with a passion for building scalable and efficient applications. Currently, I am pursuing my studies at **ITMO University**, where I am continuously enhancing my skills in software development and backend technologies.  
 
 ## 💻 Tech Stack  
 - **Programming Languages:** Python  
